@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: g993kvr6l-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/g993kvr6l-go
